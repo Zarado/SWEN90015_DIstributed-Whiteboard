@@ -10,7 +10,7 @@ This is the repository for SWEN90009 project: NDIS (National Disability Insuranc
 The folder contains all the relevant documents related to system requirements.    
   
 The documantation is divided into serverral sections : 
-***
+
 * [Criterias & Tests](docs/Criterias%20&%20Tests/) : Documents to be used for testing i.e, Acceptance Criterias, Acceptance Tests & Tracability Matrix  
     * [Acceptance Criteria](docs/Criterias%20&%20Tests//Acceptance%20Criteria.pdf)
     * [Acceptance Test](docs/Criterias%20&%20Tests/Acceptance%20Test.pdf)
