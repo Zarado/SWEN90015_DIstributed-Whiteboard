@@ -12,9 +12,9 @@ The folder contains all the relevant documents related to system requirements.
 The documantation is divided into serverral sections : 
 ***
 * [Criterias & Tests](docs/Criterias%20&%20Tests/)
-    * [Acceptance Criteria](docs/Criterias & Tests/Acceptance Criteria.pdf)
-    * [Acceptance Test](docs/Criterias & Tests/Acceptance Test.pdf)
-    * [Tracability Matrix](/docs/Criterias & Tests/Tracability Matrix.pdf)
+    * [Acceptance Criteria](docs/Criterias%20&%20Tests//Acceptance%20Criteria.pdf)
+    * [Acceptance Test](docs/Criterias%20&%20Tests/Acceptance%20Test.pdf)
+    * [Tracability Matrix](docs/Criterias%20&%20Tests//Tracability%20Matrix.pdf)
 * [Product Market Research]()
     * [Personas]()
     * [Do Be Feel List]()
