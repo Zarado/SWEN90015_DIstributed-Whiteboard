@@ -104,10 +104,11 @@ You can find the client's demo/validation video on the following confluence page
      
  ***
  ## [User Interface Files](ui/)
- * [Moodboards](ui/Moodboards.pdf)  
  The folder contains Moodbaord and other graphical elements which are used to create the final protype for the product.  
+ * [Moodboards](ui/Moodboards.pdf)  
+
  
  ***
- ## [Data Samples](data%20Samples/)
+ ## [Data Samples](data%20samples/)
  To be used by the client and development team to simulate tasks and scenarios in the final digital prototype.  
- * [Data Samples](data%20Samples/Data%20Samples)
+ * [Data Samples](data%20samples/Data%20Samples)
