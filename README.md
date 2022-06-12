@@ -7,15 +7,15 @@ This is the repository for SWEN90009 project: NDIS (National Disability Insuranc
 
 
 ### Documentation
-You can find the documetation on the website.  
+The folder contains all the relevant documents related to system requirements.    
   
 The documantation is divided into serverral sections : 
 ***
-* [Criterias & Tests]()
+* [Criterias & Tests](docs/)
     * [Acceptance Criteria]()
     * [Acceptance Test]()
     * [Tracability Matrix]()
-* [Product Market Research] 
+* [Product Market Research]()
     * [Personas]()
     * [Do Be Feel List]()
     * [Goal Model]()
