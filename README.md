@@ -22,9 +22,9 @@ The documantation is divided into serverral sections :
 * [User Stories](docs/User%20Stories/User%20Stories%20Map.pdf) : All User stories based on the requirements, along with a users stories map  
 * [User Stories Map](docs/User%20Stories/User%20Stories.pdf)
 * [Project Information](docs/Project%20Information.pdf)
-
-
-
+  
+  
+  
 ## [Protptypes](prototypes/)
 ***
 ### Low Fidelity Prototype Files
