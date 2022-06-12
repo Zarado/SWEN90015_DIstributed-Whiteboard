@@ -2,11 +2,11 @@
 
 ## SWEN90009 2022 - Software Requirements Analysis
 
-### Overview
+## Overview
 This is the repository for SWEN90009 project: NDIS (National Disability Insurance Scheme), a web platform where Behaviour Support Providers (BSPs) can upload behaviour support plans for People with Disabilities (PwD), and have them analyzed by a Natural Language Processing (NLP) algorithm to provide them with feedback for improvement and to direct them to further resources.
 
 
-### [Documentation](docs/)
+## [Documentation](docs/)
 The folder contains all the relevant documents related to system requirements.    
   
 The documantation is divided into serverral sections : 
@@ -23,13 +23,13 @@ The documantation is divided into serverral sections :
 * [User Stories Map](docs/User%20Stories/User%20Stories.pdf)
 * [Project Information](docs/Project%20Information.pdf)
 
-### [Protptypes](prototypes/)
+## [Protptypes](prototypes/)
 ***
-#### Low Fidelity Prototype Files
+### Low Fidelity Prototype Files
 - **LF Prototype Screens.pdf** Screens/Frames Pdf
 - **Mockups/Figma Project File** LF Prototype.fig
 
-#### Task Scenerios
+### Task Scenerios
 - Select behaviour support plan from home page then return to home page
 - Download a blank behaviour support plan template
 - Upload a new behaviour support plan to the system
@@ -40,14 +40,14 @@ The documantation is divided into serverral sections :
 - Delete a behaviour support plan
 - (As a family member) view plan feedback and submit a rating survey
 
-#### Resources
+### Resources
 
-##### Figma project file
+#### Figma project file
 You can find the figma project file on the following link [Project File](https://github.com/SWEN90009-2022/SWEN90009_2022_ND_Wombat/tree/master/prototypes/low_fidelity).
 
-###### Steps to import the prototype project file into Figma web/desktop application.
+##### Steps to import the prototype project file into Figma web/desktop application.
 1. Navigate to the files page on the application.
 2. Either click on the import file butttons and browse through your computer to select the file to upload, or drag and drop the project on anywhere on the files page.
 
-##### Client Validation Video
+#### Client Validation Video
 You can find the client's demo/validation video on the following confluence page : [Low Fidelity Prototype](https://confluence.cis.unimelb.edu.au:8443/pages/viewpage.action?spaceKey=SWEN900092022NDWombat&title=Low+Fidelity+Prototype).
