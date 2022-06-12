@@ -6,7 +6,7 @@
 This is the repository for SWEN90009 project: NDIS (National Disability Insurance Scheme), a web platform where Behaviour Support Providers (BSPs) can upload behaviour support plans for People with Disabilities (PwD), and have them analyzed by a Natural Language Processing (NLP) algorithm to provide them with feedback for improvement and to direct them to further resources.
 
 ### Repository Structure
-```
+
 ├── docs                   Project background information, Product-Market/Concept research docs, Criterias and Testing docs, and User Stories
     ├──  Product Market Research    Documents realted to Product and User research i.e, Do/Be/Feel List, Goal Model & Personas
         ├──  Personas                      Personas of different possible users of the system 
@@ -18,5 +18,10 @@ This is the repository for SWEN90009 project: NDIS (National Disability Insuranc
 ├── ui                     All the images and other media used for the prototypes, Moodboards
 ├── data samples           Documents with data that used to demonstrate the prototype
 
-### test
+### Documentation
+You can find the documetation on the website.
+The documantation is divided into serverral sections : 
+* f1
+* f2
+    * f3
 
