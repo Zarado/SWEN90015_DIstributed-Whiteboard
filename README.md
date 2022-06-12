@@ -60,7 +60,7 @@ You can find the client's demo/validation video on the following confluence page
 ### High Fidelity Prototype Files
 - **[HF Prototype Screens](prototypes/high_fidelity/HF%20Prototype%20Screens.pdf)**        Screens/Frames Pdf
 - **Mockups/Figma Project File**      HF Prototype Figma File.fig
-- **[Task Scanerios](prototypes/high_fidelity/HF%20Prototype & Usability%20Testing.pdf)**                  HF Prototype & Usability Testing.pdf
+- **[Task Scanerios](prototypes/high_fidelity/HF%20Prototype%20&%20Usability%20Testing.pdf)**                  HF Prototype & Usability Testing.pdf
 
 ### Resources
 
