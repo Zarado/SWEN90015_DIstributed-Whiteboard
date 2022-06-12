@@ -99,3 +99,15 @@ You are working with an NDIS practitioner to help provide support for your disab
 
 #### Client Validation Video
 You can find the client's demo/validation video on the following confluence page : [High Fidelity Prototype](https://confluence.cis.unimelb.edu.au:8443/pages/viewpage.action?pageId=101459502).
+  
+    
+     
+ ***
+ ## [User Interface Files](ui/)
+ * [Moodboards](ui/Moodboards.pdf)  
+ The folder contains Moodbaord and other graphical elements which are used to create the final protype for the product.  
+ 
+ ***
+ ## [Data Samples](data%20Samples/)
+ To be used by the client and development team to simulate tasks and scenarios in the final digital prototype.  
+ * [Data Samples](data%20Samples/Data%20Samples)
