@@ -11,7 +11,7 @@ The folder contains all the relevant documents related to system requirements.
   
 The documantation is divided into serverral sections : 
 ***
-* [Criterias & Tests](docs/Criterias_&_Tests)
+* [Criterias & Tests](docs/)
     * [Acceptance Criteria](docs/Criterias & Tests/Acceptance Criteria.pdf)
     * [Acceptance Test](docs/Criterias & Tests/Acceptance Test.pdf)
     * [Tracability Matrix](/docs/Criterias & Tests/Tracability Matrix.pdf)
