@@ -29,7 +29,7 @@ The documantation is divided into serverral sections :
 ## [Protptypes](prototypes/)
 ***
 ### Low Fidelity Prototype Files
-- **LF Prototype Screens.pdf** Screens/Frames Pdf
+- **[LF Prototype Screens](prototypes/low_fidelity/LF%20Prototype%20Screens.pdf)** Screens/Frames Pdf
 - **Mockups/Figma Project File** LF Prototype.fig
 
 ### Task Scenerios
@@ -58,9 +58,9 @@ You can find the client's demo/validation video on the following confluence page
 ***
 
 ### High Fidelity Prototype Files
-- **HF Prototype Screens.pdf**        Screens/Frames Pdf
+- **[HF Prototype Screens](prototypes/high_fidelity/HF%20Prototype%20Screens.pdf)**        Screens/Frames Pdf
 - **Mockups/Figma Project File**      HF Prototype Figma File.fig
-- **Task Scanerios**                  HF Prototype & Usability Testing.pdf
+- **[Task Scanerios](prototypes/high_fidelity/HF%20Prototype & Usability%20Testing.pdf)**                  HF Prototype & Usability Testing.pdf
 
 ### Resources
 
