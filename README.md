@@ -55,6 +55,8 @@ You can find the figma project file on the following link [Project File](https:/
 #### Client Validation Video
 You can find the client's demo/validation video on the following confluence page : [Low Fidelity Prototype](https://confluence.cis.unimelb.edu.au:8443/pages/viewpage.action?spaceKey=SWEN900092022NDWombat&title=Low+Fidelity+Prototype).
 
+***
+
 ### High Fidelity Prototype Files
 - **HF Prototype Screens.pdf**        Screens/Frames Pdf
 - **Mockups/Figma Project File**      HF Prototype Figma File.fig
